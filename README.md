@@ -307,7 +307,7 @@ black src/
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/AbhishekDP2244/feature-forge/edit/main/LICENSE.txt) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -317,9 +317,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Kaggle**: [yourprofile](https://www.kaggle.com/yourusername)
+- **GitHub**: [2244shek](https://github.com/2244shek)
+- **Email**: abhishekpanigrahi.work@gmail.com
+- **Kaggle**: [abhishekdp2244](https://www.kaggle.com/abhishekdp2244)
 
 ## ⭐ Star History
 
