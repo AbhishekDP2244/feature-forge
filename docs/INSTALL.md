@@ -287,26 +287,14 @@ After installation, verify:
 - [ ] Tests pass (`pytest tests/`)
 - [ ] No import errors in Python
 
-## 📞 Support
-
-If you encounter installation issues:
-
-1. Check this guide's troubleshooting section
-2. Check the error message carefully
-3. Search GitHub issues: `https://github.com/yourusername/feature-forge/issues`
-4. Create a new issue with:
-   - Your OS and Python version
-   - Complete error message
-   - Output of `pip list`
 
 ## 🚀 Next Steps
 
 After successful installation:
 
 1. Read the [QUICKSTART.md](QUICKSTART.md)
-2. Run the example: `python examples/demo.py`
-3. Check out the [README.md](README.md) for usage examples
-4. Browse the `/examples` directory for more demos
+2. Check out the [README.md](README.md) for usage examples
+3. Browse the `/examples` directory for more demos
 
 ---
 
