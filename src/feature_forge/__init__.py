@@ -30,8 +30,9 @@ Quick Start:
 
 For more details, visit: https://github.com/AbhishekDP2244/feature-forge
 """
+from importlib.metadata import version
 
-__version__ = "0.1.0"
+__version__ = version("featuresmith")
 __author__ = "AbhishekDP2244"
 __email__ = "abhishekpanigrahi.work@gmail.com"
 

@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="featuresmith",
-    version="0.1.0",
+    version="0.1.1",
     author="AbhishekDP2244",
     author_email="abhishekpanigrahi.work@gmail.com",
     description="Intelligent feature engineering and selection for machine learning",
