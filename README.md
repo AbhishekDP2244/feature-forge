@@ -5,7 +5,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-FeatureForge automates the tedious process of feature engineering, allowing you to focus on model building and experimentation. Perfect for Kaggle competitions, ML projects, and rapid prototyping.
+FeatureSmith automates the tedious process of feature engineering, allowing you to focus on model building and experimentation. Perfect for Kaggle competitions, ML projects, and rapid prototyping.
 
 ## ✨ Features
 
@@ -323,7 +323,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Star History
 
-If you find FeatureForge useful, please consider giving it a star! It helps others discover the project.
+If you find FeatureSmith useful, please consider giving it a star! It helps others discover the project.
 
 ---
 

@@ -1,4 +1,4 @@
-# Contributing to FeatureForge
+# Contributing to FeatureSmith
 
 Thank you for your interest in contributing! 🎉
 

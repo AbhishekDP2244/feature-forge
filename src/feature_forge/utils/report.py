@@ -74,7 +74,7 @@ class ReportGenerator:
         <!DOCTYPE html>
         <html>
         <head>
-            <title>FeatureForge Report</title>
+            <title>FeatureSmith Report</title>
             <style>
                 body {{
                     font-family: Arial, sans-serif;
@@ -167,7 +167,7 @@ class ReportGenerator:
         </head>
         <body>
             <div class="container">
-                <h1>🔥 FeatureForge Report</h1>
+                <h1>🔥 FeatureSmith Report</h1>
                 <p><strong>Generated:</strong> {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M:%S')}</p>
                 <p><strong>Task Type:</strong> {self.task.capitalize()}</p>
                 

@@ -1,4 +1,4 @@
-# Installation Guide for FeatureForge
+# Installation Guide for FeatureSmith
 
 ## 📦 Installation Options
 

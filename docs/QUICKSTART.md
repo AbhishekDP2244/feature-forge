@@ -1,4 +1,4 @@
-# FeatureForge Quick Start Guide
+# FeatureSmith Quick Start Guide
 
 ## 🚀 Installation & Testing
 
@@ -57,7 +57,7 @@ X = pd.DataFrame({
 y = pd.Series(np.random.randint(0, 2, 100))
 
 print("=" * 50)
-print("Testing FeatureForge")
+print("Testing FeatureSmith")
 print("=" * 50)
 
 # Initialize
@@ -142,7 +142,7 @@ Create `examples/demo.py`:
 
 ```python
 """
-FeatureForge Demo - Titanic Dataset
+FeatureSmith Demo - Titanic Dataset
 """
 
 from feature_forge import FeatureSmith
@@ -167,7 +167,7 @@ X = pd.DataFrame({
 
 y = pd.Series(np.random.randint(0, 2, n_samples))
 
-print("🚢 Titanic Survival Prediction - FeatureForge Demo")
+print("🚢 Titanic Survival Prediction - FeatureSmith Demo")
 print("=" * 60)
 
 # Original features baseline

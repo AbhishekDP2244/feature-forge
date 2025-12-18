@@ -1,5 +1,5 @@
 """
-FeatureForge: Intelligent Feature Engineering and Selection
+FeatureSmith: Intelligent Feature Engineering and Selection
 ============================================================
 
 A powerful library for automated feature engineering, selection,
