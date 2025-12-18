@@ -54,19 +54,19 @@ Once published to PyPI:
 
 ```bash
 # Basic installation
-pip install feature-forge
+pip install featuresmith
 
 # With all optional dependencies
-pip install feature-forge[all]
+pip install featuresmith[all]
 
 # With development tools
-pip install feature-forge[dev]
+pip install featuresmith[dev]
 
 # With XGBoost support
-pip install feature-forge[xgboost]
+pip install featuresmith[xgboost]
 
 # With CatBoost support
-pip install feature-forge[catboost]
+pip install featuresmith[catboost]
 ```
 
 ## 🔍 Verify Installation
@@ -233,10 +233,10 @@ To use in Kaggle notebooks:
 
 ```python
 # Install from GitHub (after publishing)
-!pip install git+https://github.com/yourusername/feature-forge.git
+!pip install git+https://github.com/AbhishekDP2244/feature-forge.git
 
 # Or upload wheel file and install
-!pip install /kaggle/input/feature-forge/feature_forge-0.1.0-py3-none-any.whl
+!pip install /kaggle/input/feature-forge/featuresmith-0.1.0-py3-none-any.whl
 
 # Import and use
 from feature_forge import FeatureSmith

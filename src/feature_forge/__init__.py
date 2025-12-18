@@ -28,7 +28,7 @@ Quick Start:
     >>> # Remove redundancy
     >>> optimal = smith.remove_redundancy()
 
-For more details, visit: https://github.com/yourusername/feature-forge
+For more details, visit: https://github.com/AbhishekDP2244/feature-forge
 """
 
 __version__ = "0.1.0"

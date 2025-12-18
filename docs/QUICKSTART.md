@@ -244,7 +244,7 @@ python examples/demo.py
 pip install -e .
 
 # Or reinstall
-pip uninstall feature-forge
+pip uninstall featuresmith
 pip install -e .
 ```
 

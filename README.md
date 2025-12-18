@@ -1,4 +1,4 @@
-# FeatureForge 🔥
+# FeatureSmith 🔥
 
 **Intelligent feature engineering and selection for machine learning competitions and projects.**
 
@@ -38,7 +38,7 @@ FeatureForge automates the tedious process of feature engineering, allowing you 
 ### Installation
 
 ```bash
-pip install feature-forge
+pip install featuresmith
 ```
 
 ### Basic Usage
@@ -288,7 +288,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/feature-forge.git
+git clone https://github.com/AbhishekDP2244/feature-forge.git
 cd feature-forge
 
 # Create virtual environment
