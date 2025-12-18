@@ -4,9 +4,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/v/release/YOUR-USERNAME/feature-forge)](https://github.com/AbhishekDP2244/feature-forge/releases)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/feature-forge)](https://github.com/AbhishekDP2244/feature-forge/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/feature-forge)](https://github.com/AbhishekDP2244/feature-forge/issues)
 
 FeatureForge automates the tedious process of feature engineering, allowing you to focus on model building and experimentation. Perfect for Kaggle competitions, ML projects, and rapid prototyping.
 
